@@ -36,11 +36,6 @@ public class ApplicationTest extends UITestBase {
 		Assert.assertEquals(text, "Accounts Overview");
 	}
 	
-	/*
-	 * @Test public void AccountOverviewTest() {
-	 * 
-	 * }
-	 */
 	
 	@AfterTest
 	public void driverQuit() {
